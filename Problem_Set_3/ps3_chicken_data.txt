@@ -1,0 +1,10 @@
+Berta,6,10
+Alphonisa,4,5
+Fluffy,9,5
+Lucy,4,4
+Chewbacca,2,3
+Red,5,9
+Simba,4,5
+Franny,7,6
+Jeff,5,5
+Robocop,9,9
